@@ -14,15 +14,15 @@
 - hash-only-2 – <span style="color:#d97920;">Medium</span> – 200  
 - PIE TIME 2 – <span style="color:#d97920;">Medium</span> – 200  
 - Echo Valley – <span style="color:#d97920;">Medium</span> – 300  
-- handoff – <span style="color:#c62648;">Hard</span> – 400  
+- [handoff](https://github.com/EnchLolz/picoCTF25/blob/main/Handoff.md) – <span style="color:#c62648;">Hard</span> – 400  
 
 #### Cryptography 6/6
 - hashcrack – <span style="color:#127c69;">Easy</span> – 100  
 - EVEN RSA CAN BE BROKEN??? – <span style="color:#127c69;">Easy</span> – 200  
 - Guess My Cheese (Part 1) – <span style="color:#d97920;">Medium</span> – 200  
 - Guess My Cheese (Part 2) – <span style="color:#d97920;">Medium</span> – 300  
-- ChaCha Slide – <span style="color:#c62648;">Hard</span> – 400  
-- Ricochet – <span style="color:#c62648;">Hard</span> – 500  
+- [ChaCha Slide](https://github.com/EnchLolz/picoCTF25/blob/main/Cha%20Cha%20Slide.mdg) – <span style="color:#c62648;">Hard</span> – 400  
+- [Ricochet](https://github.com/EnchLolz/picoCTF25/blob/main/Ricochet.md) – <span style="color:#c62648;">Hard</span> – 500  
 
 #### Forensics 6/6
 - Ph4nt0m 1ntrud3r – <span style="color:#127c69;">Easy</span> – 50  
